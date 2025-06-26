@@ -1,0 +1,201 @@
+Nombre,Edad,Género,Estudios,Salario,Idiomas,Experiencia,Entrevista,CV_subido
+Candidato 1,25,Femenino,Licenciatura,22879,"Francés, Alemán, Inglés",Sí,2025-07-13 14:45,Sí
+Candidato 2,28,Femenino,Doctorado,20529,"Francés, Inglés, Español",Sí,2025-06-30 16:15,No
+Candidato 3,28,Femenino,Licenciatura,33661,"Inglés, Español",Sí,2025-06-25 15:45,Sí
+Candidato 4,34,Otro,Licenciatura,22030,Español,No,2025-07-11 17:45,Sí
+Candidato 5,44,Femenino,Maestría,19970,Francés,Sí,2025-07-14 10:15,No
+Candidato 6,46,Femenino,Maestría,28499,"Español, Inglés",No,2025-07-08 14:15,Sí
+Candidato 7,48,Masculino,Maestría,17719,"Francés, Español",Sí,2025-06-28 10:30,Sí
+Candidato 8,31,Femenino,Maestría,22738,"Español, Alemán",Sí,2025-06-27 17:15,No
+Candidato 9,49,Otro,Maestría,24910,Español,No,2025-07-04 09:15,No
+Candidato 10,49,Femenino,Maestría,17696,"Alemán, Inglés, Español",Sí,2025-07-15 14:15,No
+Candidato 11,37,Femenino,Doctorado,15404,Inglés,Sí,2025-06-24 17:30,Sí
+Candidato 12,26,Masculino,Licenciatura,22825,"Alemán, Francés",No,2025-07-02 17:45,Sí
+Candidato 13,48,Masculino,Doctorado,16242,"Inglés, Español, Alemán",No,2025-06-23 16:00,No
+Candidato 14,49,Femenino,Licenciatura,31204,"Inglés, Alemán, Español",Sí,2025-07-18 17:30,No
+Candidato 15,42,Femenino,Maestría,30183,"Francés, Español, Alemán",Sí,2025-06-23 12:15,Sí
+Candidato 16,50,Otro,Licenciatura,14691,Español,No,2025-07-13 14:15,No
+Candidato 17,38,Femenino,Doctorado,21264,"Español, Francés, Alemán",No,2025-07-02 16:30,No
+Candidato 18,33,Otro,Licenciatura,18437,"Español, Francés, Inglés",No,2025-07-05 16:30,No
+Candidato 19,34,Otro,Licenciatura,24404,"Alemán, Francés",No,2025-07-09 11:15,No
+Candidato 20,45,Femenino,Maestría,21709,"Español, Francés",Sí,2025-07-01 11:30,No
+Candidato 21,41,Otro,Doctorado,21776,Inglés,Sí,2025-07-17 14:00,Sí
+Candidato 22,30,Otro,Maestría,18253,Español,No,2025-07-14 17:30,Sí
+Candidato 23,40,Masculino,Maestría,22194,"Inglés, Alemán, Francés",Sí,2025-06-22 17:00,No
+Candidato 24,25,Femenino,Maestría,22419,"Alemán, Español",No,2025-07-07 10:45,No
+Candidato 25,43,Femenino,Licenciatura,22801,"Inglés, Francés, Alemán",No,2025-06-30 09:30,Sí
+Candidato 26,49,Femenino,Licenciatura,23335,Inglés,Sí,2025-07-01 11:30,Sí
+Candidato 27,54,Otro,Doctorado,28218,"Alemán, Inglés",No,2025-07-02 10:45,Sí
+Candidato 28,44,Femenino,Licenciatura,23697,"Francés, Alemán",No,2025-07-06 11:15,Sí
+Candidato 29,44,Femenino,Licenciatura,32462,"Inglés, Francés, Alemán",Sí,2025-07-05 12:00,No
+Candidato 30,39,Femenino,Doctorado,17405,"Alemán, Francés, Inglés",Sí,2025-06-29 12:00,No
+Candidato 31,57,Otro,Maestría,32995,"Inglés, Alemán",No,2025-06-20 15:00,No
+Candidato 32,26,Masculino,Doctorado,20266,"Español, Inglés",Sí,2025-06-23 12:15,No
+Candidato 33,34,Femenino,Doctorado,23585,"Español, Francés",Sí,2025-07-06 16:00,No
+Candidato 34,57,Masculino,Licenciatura,18007,"Francés, Inglés, Alemán",Sí,2025-07-01 15:00,No
+Candidato 35,56,Femenino,Doctorado,15604,"Inglés, Español, Alemán",Sí,2025-07-17 11:00,Sí
+Candidato 36,35,Femenino,Doctorado,15280,"Inglés, Francés",Sí,2025-06-28 15:00,No
+Candidato 37,48,Otro,Licenciatura,17162,Inglés,Sí,2025-06-21 17:45,No
+Candidato 38,36,Masculino,Doctorado,17618,"Inglés, Alemán, Español",No,2025-07-11 13:45,No
+Candidato 39,53,Otro,Maestría,28412,"Alemán, Inglés",Sí,2025-07-09 14:45,No
+Candidato 40,59,Masculino,Licenciatura,13434,Francés,No,2025-07-12 15:15,Sí
+Candidato 41,25,Otro,Maestría,14903,Inglés,No,2025-07-09 12:30,Sí
+Candidato 42,25,Masculino,Doctorado,15252,"Francés, Inglés",No,2025-07-13 12:15,Sí
+Candidato 43,30,Otro,Maestría,18448,"Español, Alemán",Sí,2025-07-15 14:15,Sí
+Candidato 44,42,Masculino,Maestría,26274,"Inglés, Español",Sí,2025-07-03 17:45,No
+Candidato 45,40,Masculino,Licenciatura,19426,Alemán,No,2025-07-17 17:15,No
+Candidato 46,29,Masculino,Maestría,23636,"Alemán, Francés",No,2025-07-01 09:30,Sí
+Candidato 47,56,Masculino,Maestría,25145,Español,No,2025-07-04 16:00,Sí
+Candidato 48,26,Femenino,Maestría,25692,Inglés,No,2025-06-21 15:45,Sí
+Candidato 49,26,Otro,Doctorado,12612,"Alemán, Español, Francés",Sí,2025-07-18 15:45,Sí
+Candidato 50,36,Masculino,Licenciatura,16186,"Inglés, Español, Alemán",No,2025-07-16 13:30,No
+Candidato 51,43,Masculino,Maestría,21738,"Español, Alemán",Sí,2025-07-11 16:30,No
+Candidato 52,52,Femenino,Maestría,32492,"Inglés, Español, Alemán",No,2025-07-01 15:00,Sí
+Candidato 53,25,Otro,Licenciatura,34120,"Alemán, Español, Francés",Sí,2025-07-07 15:15,No
+Candidato 54,39,Femenino,Maestría,22465,"Español, Alemán",Sí,2025-07-05 15:45,Sí
+Candidato 55,37,Masculino,Doctorado,32647,Alemán,No,2025-07-10 11:30,Sí
+Candidato 56,45,Masculino,Licenciatura,21120,"Alemán, Francés, Español",No,2025-06-30 13:30,Sí
+Candidato 57,36,Masculino,Maestría,23553,"Español, Alemán, Francés",No,2025-06-24 12:00,No
+Candidato 58,29,Masculino,Doctorado,21114,"Alemán, Español",No,2025-07-07 09:45,Sí
+Candidato 59,31,Masculino,Maestría,12099,Español,Sí,2025-06-26 15:00,No
+Candidato 60,29,Femenino,Doctorado,14354,"Francés, Español",Sí,2025-06-29 17:15,No
+Candidato 61,28,Masculino,Maestría,34292,"Español, Francés",Sí,2025-07-11 11:15,No
+Candidato 62,37,Otro,Doctorado,25022,"Español, Inglés, Francés",Sí,2025-07-04 17:00,No
+Candidato 63,39,Otro,Maestría,13608,Alemán,Sí,2025-07-18 13:00,Sí
+Candidato 64,40,Otro,Doctorado,33778,"Alemán, Francés, Español",No,2025-06-30 11:15,No
+Candidato 65,45,Masculino,Doctorado,19719,"Francés, Inglés, Español",Sí,2025-06-27 16:30,No
+Candidato 66,48,Masculino,Doctorado,23498,Inglés,No,2025-07-07 12:45,Sí
+Candidato 67,40,Otro,Doctorado,25947,Inglés,Sí,2025-06-22 09:45,Sí
+Candidato 68,38,Masculino,Licenciatura,28668,"Inglés, Español",Sí,2025-07-08 11:15,Sí
+Candidato 69,46,Otro,Doctorado,23922,"Francés, Español, Inglés",No,2025-06-30 11:00,No
+Candidato 70,30,Otro,Doctorado,26508,"Inglés, Alemán",Sí,2025-06-23 14:30,No
+Candidato 71,25,Masculino,Doctorado,28083,"Alemán, Español",Sí,2025-07-07 16:30,Sí
+Candidato 72,56,Femenino,Doctorado,23062,Español,No,2025-07-04 14:00,No
+Candidato 73,30,Femenino,Licenciatura,28384,"Francés, Español, Alemán",Sí,2025-07-01 12:30,No
+Candidato 74,55,Femenino,Maestría,33187,"Francés, Inglés, Alemán",No,2025-06-30 12:45,Sí
+Candidato 75,25,Masculino,Licenciatura,17851,Inglés,Sí,2025-06-20 15:45,No
+Candidato 76,59,Masculino,Doctorado,26179,"Español, Alemán, Inglés",No,2025-07-09 15:30,Sí
+Candidato 77,54,Femenino,Licenciatura,22681,Inglés,Sí,2025-07-17 14:15,Sí
+Candidato 78,28,Masculino,Licenciatura,31347,Francés,Sí,2025-07-02 12:45,Sí
+Candidato 79,59,Masculino,Doctorado,14098,"Alemán, Inglés",No,2025-06-23 16:15,No
+Candidato 80,38,Femenino,Maestría,26578,"Inglés, Francés",No,2025-06-28 13:45,No
+Candidato 81,46,Otro,Doctorado,16966,"Alemán, Español, Inglés",Sí,2025-07-16 17:15,No
+Candidato 82,34,Otro,Doctorado,14068,Español,Sí,2025-07-03 13:15,No
+Candidato 83,25,Masculino,Maestría,18827,"Alemán, Español",Sí,2025-06-25 09:45,Sí
+Candidato 84,35,Otro,Maestría,24918,"Alemán, Francés, Inglés",Sí,2025-06-26 12:45,Sí
+Candidato 85,48,Femenino,Doctorado,17604,"Inglés, Alemán, Español",Sí,2025-07-06 12:30,No
+Candidato 86,27,Femenino,Maestría,34893,Español,No,2025-06-26 14:45,Sí
+Candidato 87,59,Otro,Doctorado,24393,"Francés, Español, Alemán",No,2025-07-07 16:15,Sí
+Candidato 88,55,Femenino,Maestría,19874,"Inglés, Francés",Sí,2025-07-01 12:00,No
+Candidato 89,28,Otro,Doctorado,13807,"Inglés, Francés",No,2025-07-17 16:00,No
+Candidato 90,43,Otro,Licenciatura,31574,"Francés, Alemán, Inglés",No,2025-07-04 09:45,Sí
+Candidato 91,45,Femenino,Maestría,26881,"Francés, Español",Sí,2025-07-11 15:45,No
+Candidato 92,42,Otro,Maestría,13932,"Alemán, Español, Inglés",Sí,2025-07-17 15:45,Sí
+Candidato 93,52,Masculino,Doctorado,15973,Alemán,Sí,2025-07-10 16:30,No
+Candidato 94,39,Masculino,Doctorado,12266,Alemán,No,2025-06-20 10:30,Sí
+Candidato 95,26,Otro,Licenciatura,23270,"Francés, Alemán",Sí,2025-07-11 13:15,Sí
+Candidato 96,35,Femenino,Doctorado,17382,"Español, Alemán",No,2025-06-28 16:00,No
+Candidato 97,47,Femenino,Maestría,20806,"Francés, Inglés",No,2025-07-12 10:00,Sí
+Candidato 98,36,Otro,Doctorado,24619,"Español, Alemán, Francés",No,2025-07-16 17:15,Sí
+Candidato 99,27,Otro,Licenciatura,30802,"Alemán, Francés",No,2025-06-21 15:30,No
+Candidato 100,41,Femenino,Maestría,19500,Español,No,2025-07-08 16:30,No
+Candidato 101,57,Masculino,Doctorado,16765,"Inglés, Español, Alemán",No,2025-06-30 14:45,No
+Candidato 102,25,Otro,Licenciatura,34025,Español,No,2025-07-15 15:30,No
+Candidato 103,44,Masculino,Doctorado,20819,"Español, Inglés",No,2025-07-09 12:00,Sí
+Candidato 104,38,Otro,Maestría,16485,"Francés, Español",No,2025-07-10 10:45,Sí
+Candidato 105,55,Masculino,Doctorado,14283,Francés,Sí,2025-07-15 14:15,Sí
+Candidato 106,49,Otro,Maestría,32673,"Francés, Inglés, Español",No,2025-07-18 16:00,Sí
+Candidato 107,27,Femenino,Licenciatura,23326,"Español, Alemán, Inglés",No,2025-06-25 13:30,Sí
+Candidato 108,28,Otro,Licenciatura,26895,"Inglés, Alemán",No,2025-06-22 09:15,No
+Candidato 109,55,Femenino,Maestría,28504,"Inglés, Español",No,2025-06-28 16:15,Sí
+Candidato 110,59,Masculino,Licenciatura,26098,Español,Sí,2025-06-21 10:15,Sí
+Candidato 111,38,Femenino,Doctorado,26681,"Inglés, Español, Francés",Sí,2025-07-13 13:00,No
+Candidato 112,33,Femenino,Licenciatura,28606,"Español, Inglés",Sí,2025-06-26 10:30,Sí
+Candidato 113,44,Otro,Maestría,15676,"Francés, Alemán, Español",Sí,2025-07-18 17:15,No
+Candidato 114,56,Otro,Doctorado,32716,"Inglés, Alemán, Francés",No,2025-07-10 16:15,No
+Candidato 115,33,Masculino,Licenciatura,22345,"Francés, Español, Inglés",No,2025-06-30 17:00,No
+Candidato 116,51,Femenino,Doctorado,23477,Inglés,No,2025-07-14 12:30,Sí
+Candidato 117,27,Masculino,Licenciatura,23782,"Español, Francés",Sí,2025-07-11 15:00,No
+Candidato 118,28,Masculino,Licenciatura,24900,Español,No,2025-07-11 16:45,No
+Candidato 119,39,Masculino,Maestría,32016,"Francés, Español, Alemán",Sí,2025-07-16 09:30,No
+Candidato 120,57,Otro,Licenciatura,21114,"Español, Francés, Inglés",Sí,2025-06-23 14:15,Sí
+Candidato 121,29,Masculino,Maestría,19326,"Alemán, Inglés",No,2025-06-27 17:00,Sí
+Candidato 122,28,Femenino,Licenciatura,19557,"Inglés, Español",Sí,2025-07-01 11:30,No
+Candidato 123,36,Masculino,Doctorado,26479,"Alemán, Inglés, Español",Sí,2025-06-25 10:30,No
+Candidato 124,47,Otro,Licenciatura,25247,"Inglés, Francés, Español",No,2025-07-04 14:30,Sí
+Candidato 125,38,Femenino,Doctorado,23749,"Alemán, Francés",No,2025-07-07 11:45,Sí
+Candidato 126,36,Masculino,Maestría,23301,Alemán,Sí,2025-06-20 12:15,Sí
+Candidato 127,41,Femenino,Licenciatura,27985,"Francés, Español",Sí,2025-06-20 10:15,Sí
+Candidato 128,49,Otro,Doctorado,24383,"Francés, Español",No,2025-07-17 11:30,Sí
+Candidato 129,54,Masculino,Licenciatura,26688,"Español, Inglés, Alemán",Sí,2025-07-09 13:45,No
+Candidato 130,46,Masculino,Doctorado,14544,Inglés,Sí,2025-07-11 17:15,No
+Candidato 131,50,Masculino,Licenciatura,26544,"Francés, Alemán, Inglés",Sí,2025-07-07 15:45,Sí
+Candidato 132,41,Otro,Doctorado,18432,"Inglés, Alemán, Francés",No,2025-06-21 15:15,No
+Candidato 133,44,Femenino,Doctorado,12062,Inglés,Sí,2025-07-07 14:30,Sí
+Candidato 134,58,Masculino,Licenciatura,28192,Francés,Sí,2025-07-03 11:45,Sí
+Candidato 135,57,Masculino,Licenciatura,18490,Español,Sí,2025-06-22 11:00,No
+Candidato 136,31,Masculino,Doctorado,14023,Francés,No,2025-07-12 12:45,Sí
+Candidato 137,46,Masculino,Maestría,20342,Francés,Sí,2025-06-24 10:30,Sí
+Candidato 138,56,Femenino,Maestría,30821,"Francés, Español, Alemán",No,2025-06-26 15:00,No
+Candidato 139,38,Otro,Maestría,14852,Inglés,Sí,2025-06-28 17:00,Sí
+Candidato 140,32,Otro,Maestría,28511,"Inglés, Español",No,2025-07-02 14:30,No
+Candidato 141,49,Femenino,Licenciatura,13508,"Español, Francés",No,2025-06-22 14:15,Sí
+Candidato 142,40,Masculino,Doctorado,21989,"Inglés, Alemán",No,2025-07-15 14:00,No
+Candidato 143,43,Femenino,Maestría,27708,"Alemán, Francés, Español",No,2025-06-30 10:30,No
+Candidato 144,40,Femenino,Maestría,30892,Español,Sí,2025-07-01 10:00,No
+Candidato 145,36,Femenino,Maestría,24017,"Inglés, Español, Alemán",No,2025-07-14 12:00,Sí
+Candidato 146,54,Femenino,Maestría,24172,Inglés,Sí,2025-07-01 11:45,No
+Candidato 147,26,Femenino,Doctorado,14022,"Inglés, Alemán",No,2025-07-15 12:30,No
+Candidato 148,56,Femenino,Licenciatura,31636,"Alemán, Español",No,2025-06-24 16:30,No
+Candidato 149,49,Otro,Doctorado,12592,"Alemán, Francés, Inglés",Sí,2025-07-11 14:45,Sí
+Candidato 150,49,Otro,Maestría,34941,"Español, Alemán, Inglés",Sí,2025-07-14 16:45,Sí
+Candidato 151,28,Femenino,Maestría,29408,Inglés,Sí,2025-07-03 10:45,No
+Candidato 152,43,Femenino,Maestría,32183,Francés,No,2025-07-13 14:30,No
+Candidato 153,28,Femenino,Maestría,16669,Francés,No,2025-07-16 13:45,Sí
+Candidato 154,37,Otro,Doctorado,30755,"Español, Alemán",Sí,2025-06-20 14:45,Sí
+Candidato 155,47,Masculino,Licenciatura,23408,"Alemán, Español",No,2025-07-18 16:45,Sí
+Candidato 156,30,Masculino,Maestría,22096,Español,No,2025-06-28 10:30,Sí
+Candidato 157,48,Masculino,Doctorado,21673,"Inglés, Francés, Español",Sí,2025-06-26 15:15,No
+Candidato 158,57,Femenino,Maestría,19764,"Español, Inglés",Sí,2025-06-20 11:00,Sí
+Candidato 159,36,Masculino,Maestría,12116,Alemán,Sí,2025-06-26 15:45,Sí
+Candidato 160,45,Femenino,Maestría,19935,"Alemán, Español",Sí,2025-07-01 12:00,Sí
+Candidato 161,35,Masculino,Doctorado,12824,Francés,No,2025-06-24 13:15,Sí
+Candidato 162,53,Otro,Licenciatura,33649,"Inglés, Francés",No,2025-07-10 12:00,Sí
+Candidato 163,27,Otro,Doctorado,20121,"Inglés, Alemán, Francés",Sí,2025-07-16 11:45,No
+Candidato 164,52,Femenino,Doctorado,15593,Inglés,No,2025-07-07 16:00,Sí
+Candidato 165,44,Masculino,Doctorado,24780,"Alemán, Inglés, Español",No,2025-07-09 12:15,No
+Candidato 166,50,Masculino,Doctorado,33694,"Español, Francés",No,2025-07-18 09:45,No
+Candidato 167,48,Masculino,Doctorado,14276,"Alemán, Francés",No,2025-06-27 14:45,Sí
+Candidato 168,45,Masculino,Licenciatura,13863,"Inglés, Alemán, Español",No,2025-07-17 16:30,No
+Candidato 169,54,Masculino,Maestría,28151,"Español, Inglés",No,2025-06-28 14:15,Sí
+Candidato 170,28,Otro,Maestría,20199,"Español, Alemán, Inglés",Sí,2025-06-21 16:00,No
+Candidato 171,34,Femenino,Doctorado,18653,Francés,No,2025-07-04 15:15,Sí
+Candidato 172,34,Masculino,Doctorado,20982,"Inglés, Español, Alemán",No,2025-06-28 10:30,Sí
+Candidato 173,48,Otro,Doctorado,13890,"Inglés, Francés, Alemán",No,2025-07-06 11:45,Sí
+Candidato 174,28,Masculino,Maestría,13616,Alemán,Sí,2025-06-30 13:00,Sí
+Candidato 175,51,Otro,Maestría,27919,"Español, Alemán",No,2025-07-04 17:00,Sí
+Candidato 176,28,Femenino,Maestría,32975,"Alemán, Francés",No,2025-06-27 14:30,No
+Candidato 177,56,Masculino,Doctorado,12626,"Inglés, Español, Francés",No,2025-07-08 12:00,No
+Candidato 178,34,Masculino,Doctorado,26859,"Español, Alemán",No,2025-07-13 15:15,No
+Candidato 179,35,Otro,Maestría,34487,"Alemán, Español, Francés",No,2025-07-14 10:45,No
+Candidato 180,52,Femenino,Doctorado,34350,Español,Sí,2025-07-13 15:00,Sí
+Candidato 181,32,Otro,Licenciatura,24263,Alemán,No,2025-07-18 13:00,Sí
+Candidato 182,46,Otro,Maestría,14138,"Español, Francés",No,2025-06-23 14:30,Sí
+Candidato 183,58,Femenino,Maestría,19021,Francés,Sí,2025-07-16 11:00,Sí
+Candidato 184,59,Masculino,Doctorado,28187,"Francés, Alemán",Sí,2025-06-21 13:15,Sí
+Candidato 185,59,Masculino,Licenciatura,24912,Alemán,No,2025-07-16 09:45,No
+Candidato 186,49,Otro,Maestría,16517,"Alemán, Francés, Español",No,2025-07-11 17:45,Sí
+Candidato 187,58,Femenino,Licenciatura,20629,Inglés,No,2025-06-29 10:15,No
+Candidato 188,30,Femenino,Licenciatura,34629,"Español, Francés",Sí,2025-07-16 09:00,No
+Candidato 189,25,Masculino,Doctorado,23528,"Francés, Español",No,2025-07-16 10:30,No
+Candidato 190,36,Masculino,Maestría,19008,"Francés, Español",Sí,2025-07-15 16:30,No
+Candidato 191,59,Otro,Licenciatura,30129,"Español, Inglés",No,2025-07-07 13:45,Sí
+Candidato 192,30,Masculino,Maestría,20292,"Español, Inglés, Francés",Sí,2025-07-05 17:30,Sí
+Candidato 193,41,Femenino,Doctorado,13409,Español,Sí,2025-07-17 15:45,No
+Candidato 194,33,Otro,Maestría,12765,Inglés,Sí,2025-07-11 16:00,No
+Candidato 195,26,Otro,Doctorado,33661,"Alemán, Inglés",No,2025-07-16 14:15,Sí
+Candidato 196,42,Femenino,Maestría,16997,Inglés,No,2025-07-07 13:15,No
+Candidato 197,52,Masculino,Maestría,32710,"Alemán, Español, Inglés",No,2025-07-13 17:15,No
+Candidato 198,50,Masculino,Doctorado,24792,Español,No,2025-07-13 16:15,Sí
+Candidato 199,28,Femenino,Licenciatura,18056,"Francés, Español",No,2025-06-29 09:30,No
+Candidato 200,55,Masculino,Licenciatura,14710,Alemán,Sí,2025-07-09 16:30,No
